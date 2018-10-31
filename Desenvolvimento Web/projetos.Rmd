@@ -1,0 +1,10 @@
+---
+title: "Projetos de Desenvolvimento Web"
+---
+
+Seguem algumas produções na área de Desenvolvimento de aplicações web:
+
+* [Alocca](http://alocca-91315.firebaseapp.com)
+  + Desenvolvido em grupo, durante as disciplinas de LES, Projeto I e II do Curso de Ciência da Computação - UFCG.
+* [Capital dos Candidatos](http://capitaldoscandidatos.info)
+  + Desenvolvido em grupo, durante o período de estágio no MPPB.
