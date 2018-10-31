@@ -1,0 +1,18 @@
+---
+title: "Recuperação da informação"
+output: html_document
+---
+
+Seguem algumas produções na área de **Recuperação da informação**:
+
+
+* [Análise de Sentimentos do Twitter](https://github.com/hugogbs/RecInfo/blob/master/Lab%2003%20-%20Projeto%20Final.ipynb)
+
+* [Expansão de Consultas - Word2Vec](https://github.com/hugogbs/RecInfo/blob/master/lab_02/lab%2002.ipynb)
+
+* [Indices Invertidos](https://github.com/hugogbs/RecInfo/blob/master/lab_01/parte_1/parte1.ipynb)
+  + Busca básica com AND e OR e AND de n-termos
+
+* [Ranking](https://github.com/hugogbs/RecInfo/blob/master/lab_01/parte_2/parte2.ipynb)
+  + Aprimoramento do método de ranking
+  + Comparativo entre: Representação Binária, TF, TF-IDF e BM25
