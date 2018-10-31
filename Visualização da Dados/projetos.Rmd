@@ -1,0 +1,9 @@
+---
+title: "Projetos de Visualização de Dados"
+output: html_document
+---
+
+Seguem algumas produções na área de **Visualização de Dados**:
+
+* [Mapas com D3](https://hugogbs.github.io/o-sertao/)
+* [Grafos com D3](https://hugogbs.github.io/visualizacao/lab05/)
